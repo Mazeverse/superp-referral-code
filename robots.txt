@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://superp-referral-code.vercel.app/sitemap.xml
